@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 0.9I "Insular"
+* Compatible with CK3 [v1.3-v1.4] and EU4 [v1.32]
+* Built on Wed Nov 17 17:32:43 2021
+*************************** + CK3 To EU4 + ***************************
